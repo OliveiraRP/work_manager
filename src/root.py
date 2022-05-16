@@ -1,5 +1,6 @@
 from src.appRunner import appOpenner
 from src.settings import *
+from src.style import *
 
 from tkinter import *
 
